@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👋 Hi, I'm Kovvuri Bhagya Roshini
 
-<!--
-**roshinikovvuri-ai/roshinikovvuri-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Graduate in Advanced Data Analytics (ADTA)  
+💻 AI/ML Enthusiast  
+🚀 Building real-world machine learning and NLP projects  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🧠 About Me
+
+I am passionate about:
+- Artificial Intelligence
+- Machine Learning
+- Natural Language Processing
+- Data Science
+- Building real-world AI applications
+
+
+# 🚀 Projects
+
+## 🤖 AI Customer Support Ticket Classifier
+- Built using BERT embeddings + Streamlit
+- Classifies customer tickets into categories
+- Dockerized for deployment
+
+## 📊 More Projects Coming Soon...
+- Resume Analyzer
+- RAG-based AI chatbot
+- Data analysis dashboards
+
+# 🛠️ Tech Stack
+
+- Python
+- Machine Learning
+- Deep Learning
+- NLP (BERT, Transformers)
+- Streamlit
+- Docker
+- Git & GitHub
+
+
+# 📈 Current Focus
+
+- Building AI/ML projects
+- Learning LLMs and RAG systems
+- Improving deployment skills
+
+
+# 📫 Connect With Me
+
+- LinkedIn: www.linkedin.com/in/roshini-kovvuri
+- GitHub: https://github.com/roshinikovvuri-ai
+
+⭐ Always learning, always building!
